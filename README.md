@@ -1,3 +1,8 @@
+# Repo Has Moved
+
+This repo has moved to https://github.com/kronicle-tech/kronicle-metadata-repo-template
+
+
 # Component Metadata Template
 
 This repo contains a template for creating new `component-metadata` repos.
